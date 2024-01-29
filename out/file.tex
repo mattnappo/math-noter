@@ -1,6 +1,7 @@
 \documentclass[12pt]{article}
 \usepackage[margin=0.80in]{geometry}
 
+\usepackage{mdframed}
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amsthm}
@@ -11,8 +12,8 @@
 \usepackage[all]{xy}
 \usepackage{wrapfig}
 
-\newtheorem{theorem}{Theorem}
-\newtheorem{definition}{Definition}
+\newmdtheoremenv{theorem}{Theorem}
+\newmdtheoremenv{definition}{Definition}
 \newtheorem{example}{Example}
 
 \title{Notes}
@@ -23,14 +24,14 @@
 
 \maketitle
 
-\[\Delta (\hat{\gamma})^2 = \lambda \frac{\partial \gamma}{\partial t}\]
+\[
+\Delta (\hat{\gamma})^2 = \lambda \frac{\partial \gamma}{\partial t}
+\]
 
-Consider a topological space \((X, \tau)\) where \(\tau\) is the discrete topology \(\tau_{\text{discrete}}\). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae semper nunc. Donec auctor, nisl id lacinia tincidunt, nunc nunc tincidunt nunc, id lacinia nunc nunc nec nunc. 
-
-The square root of \(\pi\) is equal to the integral from \(-\infty\) to \(\infty\) of the Gaussian function (in full form).
+Now consider a topological space \((X, \tau)\) where \(\tau\) is the discrete topology \(\tau_{\text{discrete}}\). This is something that has some words here and there are some words that are like I can type here asd asd asd asd asd asd and some math like the square root of \(\pi\) is equal to the integral from \(-\infty\) to \(\infty\) of the Gaussian function (in full form).
 
 \begin{theorem}
-\(\tau_{\text{discrete}}\) has \(n\) elements and \(|G|\) is \(<a>\)
+\(\tau_{\text{discrete}}\) has \(n\) elements and \(|G|\) is \(\langle a \rangle\)
 \end{theorem}
 
 \begin{proof}
@@ -38,7 +39,7 @@ The proof is quite simple actually.
 \end{proof}
 
 \begin{definition}
-A topology is a set \(\tau\) and set \(X\) such that the following axioms hold:
+A topology is a set \(\tau\) and set \(X\) so that the following axioms hold:
 \begin{enumerate}
 \item[\textbf{O1:}] Closed
 \item[\textbf{O2:}] Null set in \(X\)
@@ -46,7 +47,7 @@ A topology is a set \(\tau\) and set \(X\) such that the following axioms hold:
 \end{definition}
 
 \begin{example}
-The trivial topology is just the set \(\tau = \{\text{null set}, X\}\)
+The trivial topology is just the set \(\tau = \{\varnothing, X\}\)
 \end{example}
 
 \end{document}
