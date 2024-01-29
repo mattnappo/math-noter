@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.29)  29 JAN 2024 18:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.29)  29 JAN 2024 18:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./out//note.tex
-(./out//note.tex
+**./out/note.tex
+(./out/note.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
@@ -551,40 +551,28 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Package xypdf Info: Line width: 0.47998pt on input line 23.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.27 \lambda
-            ^2 = 1
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.28 
-     
-? 
-[1
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./out//note.aux) ) 
 Here is how much of TeX's memory you used:
- 8243 strings out of 477985
- 125364 string characters out of 5840058
- 1852388 words of memory out of 5000000
+ 8244 strings out of 477985
+ 125368 string characters out of 5840058
+ 1853388 words of memory out of 5000000
  28275 multiletter control sequences out of 15000+600000
  521279 words of font info for 71 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 76i,6n,77p,3242b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 76i,6n,77p,3241b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/s
-hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></u
-sr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on ./out//note.pdf (1 page, 56336 bytes).
+hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><
+/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on ./out//note.pdf (1 page, 69619 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
+ 43 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
