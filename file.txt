@@ -1,0 +1,17 @@
+laplacian of gamma hat squared = lambda * partial derivitive wrt t of gamma 
+
+now consider a topological space (X, tau) where tau is the discrete topology tau_discrete. this is some thing that has some words here and there are some words that are like lorem ipsum i just want to fill up the page with nonsense temporary text that i can type here asd asd asd asd asd asd and some math like the square root of pi is equal to the integral from -inf to inf of the gaussian function (in full form).
+
+theorem: tau_discrete has n elements and |G| is <a>
+
+proof: the proof is quite simple actually
+
+definition
+a topology is a set tau and set X so that the following axioms hold:
+O1: closed
+O2: null set in X
+
+example
+the trivial topology is just the set tau = {null set, X}
+
+
